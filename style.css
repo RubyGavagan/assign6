@@ -1,0 +1,31 @@
+h1, h2 {
+    color: green; /* Changed to green */
+  }
+  
+  p {
+    color: blue; /* Changed to blue */
+  }
+  
+  ul {
+    border: 2px solid orange;
+    padding: 10px; /* Added padding */
+  }
+  
+  ol {
+    border: 2px solid purple;
+    border-radius: 10px; /* Increased border-radius */
+  }
+  
+  ol ul {
+    padding: 5px 20px;
+    border-radius: 4px;
+  }
+  
+  h1 strong {
+    color: purple;
+  }
+  
+  em {
+    color: gray;
+  }
+  
